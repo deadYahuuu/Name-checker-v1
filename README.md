@@ -7,5 +7,5 @@ Minecraft works
 
 roblox works
 
-it a little slow but thats because of the requests
+its a little slow but thats because of the requests
 
