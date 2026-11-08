@@ -1,2 +1,11 @@
 # Name-checker-v1
-Checks roblox names 4letters and 3 letters
+This is smt to check for names
+
+Discord deosnt work correctly
+
+Minecraft works
+
+roblox works
+
+it a little slow but thats because of the requests
+
